@@ -14,5 +14,19 @@ I've already set up the game's basic framework and the code structure. Now I jus
 I work with Ruixuan Pan
 
 
+### W4
+#### Activities 0
+I work with Ruixuan Pan
+
+
+#### Activity 1
+This code writes a method and then corresponds to all game objects. After running the game, all locators will be deleted and only one will be left.
+
+
+#### Activity 2
+![696aa75899c9f43472a4bdf894eb5627](https://github.com/user-attachments/assets/c0f91d47-18d6-45a7-ac71-34c2a8280b39)
+
+
 #### Activities 3
-![507bb7238908112396c4a65ea447bc09](https://github.com/user-attachments/assets/b7b0c0d1-d30e-4add-8d40-131e818fdad1)
+I have built the basic framework, and the materials of water pipes and birds have been imported and cut.
+[MG4](https://github.com/yanzhang111/HW4/commits/main/)
