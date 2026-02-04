@@ -30,3 +30,61 @@ This code writes a method and then corresponds to all game objects. After runnin
 #### Activities 3
 I have built the basic framework, and the materials of water pipes and birds have been imported and cut.
 [MG4](https://github.com/yanzhang111/HW4/commits/main/)
+
+
+### W5
+#### Activities 1
+I think the design is pretty clear. Item handles using items, and IBreakable handles breaking, so the roles are easy to understand. It also makes sense that ElvenSword is not breakable. For a real project I might clean up the durability logic, but for this assignment the design works fine.
+
+#### Activities 2
+Model: Item.cs, Enemystats.cs
+View: DialogueBubble.cs, Inventory.cs
+Controller: Enemy.cs, Player.cs
+
+#### Activities 3
+Scenario 1
+
+
+scriptableobjects: each button (sprites, _movespeed)
+finite state machine: player whether missed button & different scores each button will give
+model-view-controller:
+    - model: list of buttons(buttons)
+    - view: score UI, time count down
+    - controller: response to player's finger, 
+singleton: locator of player
+inheritance: button move to a place, button disappear and add scores.
+
+
+Scenario 2
+
+
+Abstract Character base class for health and movement
+
+Ability interfaces for unique skills
+
+FSM with states like attacking and reloading
+
+ScriptableObjects for skill data
+
+Polymorphism for character behavior
+
+
+
+Scenario 3
+
+Base FarmObject abstract class
+
+Interfaces for plant, harvest, break
+
+ScriptableObjects for item data
+
+MVC with events for interactions
+
+Inheritance and composition for expansion
+
+
+#### Activities 4
+Attendance：Yuxin Ding, Tina Zhang, Yan Zhang
+
+
+Proposl：https://docs.google.com/document/d/1oGQXyqTOWLLG3tDOO_RGtfLVnASe5ZuaAI4uGt-2Nhs/edit?usp=sharing
