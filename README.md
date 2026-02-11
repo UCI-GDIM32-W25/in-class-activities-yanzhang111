@@ -88,3 +88,24 @@ Attendance：Yuxin Ding, Tina Zhang, Yan Zhang
 
 
 Proposl：https://docs.google.com/document/d/1oGQXyqTOWLLG3tDOO_RGtfLVnASe5ZuaAI4uGt-2Nhs/edit?usp=sharing
+
+
+### W6
+#### Activities 1
+1.Gizmos can intuitively see some content that Ican't usually see in the Scene view, such as the interaction range, direction line or detection area. So I think in my Final Project, I should use Gizmos to show the range of interaction that players can interact with cats or items, so that I can quickly check whether the distance is appropriate.
+
+
+2.The Profiling can show the usage of CPU and memory when the game is running, so if the game drops frames or runs slowly, I can use this tool to check whether some scripts or animations consume too many resources and optimize them.
+
+
+3.The function of Breakpoints is to pause the program at a specific code line to facilitate the gradual check of the numerical and logical flow of variables. This will be more useful when debugging the task system. In I ours project when the task is not completed after feeding the cat, it can be detected through this tool!(maybe?)
+
+
+4.Merging is talking about how to avoid merge conflict when saving codewith multiple people.
+
+
+#### Activities 2
+Attendance：Yuxin Ding, Tina Zhang, Yan Zhang
+
+
+Proposl：https://docs.google.com/document/d/1oGQXyqTOWLLG3tDOO_RGtfLVnASe5ZuaAI4uGt-2Nhs/edit?usp=sharing
