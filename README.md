@@ -137,3 +137,4 @@ Attendance：Yuxin Ding, Tina Zhang, Yan Zhang
 
 #### Activities 5
 [Final project](https://github.com/tinamengxq/GDIM32-Final/commits/main/)
+schedule the plan for final project, create play.cs,start to work.
