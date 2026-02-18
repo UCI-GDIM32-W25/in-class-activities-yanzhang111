@@ -114,7 +114,11 @@ Proposl：https://docs.google.com/document/d/1oGQXyqTOWLLG3tDOO_RGtfLVnASe5ZuaAI
 ### W7
 #### Activities 1
 1.Finite state machine + Raycast + SphereCast control NPC behavior
+
+
 2.In the Duck script, two states are defined with enum: Wandering and Pursuing. In Update, the status is first judged and then the corresponding logic is run. The core basis of state switching is whether you can see players with Raycast.
+
+
 3.See the player → turn to the player and move/ Can't see the player → Walk randomly + use SphereCast to avoid obstacles
 
 
