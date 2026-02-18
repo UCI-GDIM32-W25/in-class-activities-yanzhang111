@@ -124,7 +124,8 @@ Attendance：Yuxin Ding, Tina Zhang, Yan Zhang
 
 
 #### Activities 3
-
+![c563dcaaffee7122c45c141ec13762d0](https://github.com/user-attachments/assets/66488fc7-fbb2-448c-b55f-b41e52075746)
+![c563dcaaffee7122c45c141ec13762d0](https://github.com/user-attachments/assets/66488fc7-fbb2-448c-b55f-b41e52075746)
 
 
 #### Activities 4
