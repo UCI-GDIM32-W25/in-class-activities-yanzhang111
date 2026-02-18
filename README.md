@@ -125,10 +125,11 @@ Attendance：Yuxin Ding, Tina Zhang, Yan Zhang
 
 #### Activities 3
 ![c563dcaaffee7122c45c141ec13762d0](https://github.com/user-attachments/assets/66488fc7-fbb2-448c-b55f-b41e52075746)
-![c563dcaaffee7122c45c141ec13762d0](https://github.com/user-attachments/assets/66488fc7-fbb2-448c-b55f-b41e52075746)
 
 
 #### Activities 4
+[Trello board](https://trello.com/invite/b/69951b72679c6bfc86fd7473/ATTIe547f99dbf7fa8572d46a2e45aa571b50E2DB6C9/gdim-32-final)
 
 
 #### Activities 5
+[Final project](https://github.com/tinamengxq/GDIM32-Final/commits/main/)
