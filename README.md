@@ -138,3 +138,31 @@ Attendance：Yuxin Ding, Tina Zhang, Yan Zhang
 #### Activities 5
 [Final project](https://github.com/tinamengxq/GDIM32-Final/commits/main/)
 schedule the plan for final project, create play.cs,start to work.
+
+
+### W8
+#### Activities 1
+The common rendering pipeline development order in Unity is: Built-in → URP → HDRP
+
+
+If a function shows "Not compatible", it means that the current rendering pipeline does not support it and cannot be used.
+
+
+When downloading materials from Asset Store, be sure to check whether they are compatible with your own rendering pipeline, otherwise the material may not be displayed at all.
+
+
+#### Activities 2
+Attendance：Yuxin Ding, Tina Zhang, Yan Zhang
+
+
+#### Activities 3
+The Zoo team’s scene is relatively basic (only one platform), but the interaction is well‑designed. What is confusing is that the to‑do list provides no result or feedback whatsoever after a task is completed.
+
+
+#### Activities 4
+Add and improve the scene and fix minor bugs; Find sound effect for Cat Playing for this week. Today trying to find why UI not show on itch.
+
+
+#### Activities 5
+[Final project](https://github.com/tinamengxq/GDIM32-Final/commits/main/)
+working on scene, found new material.
