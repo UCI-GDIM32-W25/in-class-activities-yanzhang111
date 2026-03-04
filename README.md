@@ -169,7 +169,7 @@ working on scene, found new material.
 
 ### W9
 #### Activities 1
-Use ScriptableObject (DialogueNode) to store dialogue data. Each node has NPC lines, player options and points to the next dialogue, so as to form a dialogue tree. I feel that this structure is more suitable for complex branching dialogue.
+Use ScriptableObject to store dialogue data. Each node has NPC lines, player options and points to the next dialogue, so as to form a dialogue tree. I feel that this structure is more suitable for complex branching dialogue.
 
 
 #### Activities 2
@@ -194,6 +194,7 @@ Pending tasks:
 - more specific guidelines for players
 - create start game (inform players game background) and end game UI
 
-- 
+
 #### Activities 5
-（https://github.com/tinamengxq/GDIM32-Final/commits/main/）the air wall has been added to solve the problem that the ground is too big.
+（https://github.com/tinamengxq/GDIM32-Final/commits/main/）
+We changed the size of the ground and created an air barrier.
