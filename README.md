@@ -206,7 +206,7 @@ Attendance：Yuxin Ding, Tina Zhang, Yan Zhang
 
 
 #### Activities 2
-    We would like to know if the playtesters understand what they need to do, where to pick up the game characters, and whether they are familiar with the game's background and overall gameplay. Before we started the actual gameplay, we added a "start dialogue" which explained to players what they should do next and how to begin the game. The overall playtest went smoothly. The cat still occasionally needed some time for players to find where it is (we will make it larger in the future), but the game progress has improved significantly compared to the previous playtest. And our dialogue optimization enables them to understand that we have two tasks. So after completing the first task, they will return to the NPC to pick up the second one.
+We would like to know if the playtesters understand what they need to do, where to pick up the game characters, and whether they are familiar with the game's background and overall gameplay. Before we started the actual gameplay, we added a "start dialogue" which explained to players what they should do next and how to begin the game. The overall playtest went smoothly. The cat still occasionally needed some time for players to find where it is (we will make it larger in the future), but the game progress has improved significantly compared to the previous playtest. And our dialogue optimization enables them to understand that we have two tasks. So after completing the first task, they will return to the NPC to pick up the second one.
 
     
 #### Activities 3
